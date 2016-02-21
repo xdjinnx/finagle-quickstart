@@ -1,0 +1,12 @@
+### Java template
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ #
+target
+.idea
+finagle-quickstart.iml
